@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Wide Awake",
+  "base_artist": "Katy Perry",
+  "createdAt": "2026-03-09T17:08:52.056081Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stay Wide Awake",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/01_Stay_Wide_Awake_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wide Awake On the Voyage Home",
+      "artist": "Liam Finn",
+      "has_synced": true,
+      "path": "select/02_Wide_Awake_On_the_Voyage_Home_Liam_Finn.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wide Awake",
+      "artist": "Beach Fossils",
+      "has_synced": true,
+      "path": "select/03_Wide_Awake_Beach_Fossils.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wide Awake",
+      "artist": "TNT",
+      "has_synced": false,
+      "path": "select/04_Wide_Awake_TNT.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wide Awake In Dreamland",
+      "artist": "Pat Benatar",
+      "has_synced": false,
+      "path": "select/05_Wide_Awake_In_Dreamland_Pat_Benatar.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wide Awake",
+      "artist": "Biohazard",
+      "has_synced": false,
+      "path": "select/06_Wide_Awake_Biohazard.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wide Awake And Dead",
+      "artist": "Orgy",
+      "has_synced": true,
+      "path": "select/07_Wide_Awake_And_Dead_Orgy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wide Awake",
+      "artist": "Jonezetta",
+      "has_synced": true,
+      "path": "select/08_Wide_Awake_Jonezetta.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wide Awake",
+      "artist": "Lacuna Coil",
+      "has_synced": true,
+      "path": "select/09_Wide_Awake_Lacuna_Coil.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wide Awake",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/10_Wide_Awake_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wide Awake",
+      "artist": "Audioslave",
+      "has_synced": true,
+      "path": "select/11_Wide_Awake_Audioslave.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wide Awake (Glee Cast Version)",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/12_Wide_Awake_(Glee_Cast_Version)_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Wide Awake (feat. Gustaf Norén, Filatov & Karas) - Red Mix",
+      "artist": "Eric Saade, Filatov & Karas & Gustaf Norén",
+      "has_synced": true,
+      "path": "select/13_Wide_Awake_(feat._Gustaf_Norén,_Filatov_&_Karas)_-_Red_Mix_Eric_Saade,_Filatov_&_Karas_&_Gustaf_Norén.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Wide Awake (feat. Gustaf Norén & Filatov & Karas) - Red Mix",
+      "artist": "Eric Saade/Gustaf Norén/Filatov & Karas",
+      "has_synced": true,
+      "path": "select/14_Wide_Awake_(feat._Gustaf_Norén_&_Filatov_&_Karas)_-_Red_Mix_Eric_Saade_Gustaf_Norén_Filatov_&_Karas.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Wide Awake",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/15_Wide_Awake_Katy_Perry.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wide Awake",
+      "artist": "Katy Perry",
+      "has_synced": false,
+      "path": "select/pl_01_Wide_Awake_Katy_Perry.txt"
+    }
+  ]
+}
